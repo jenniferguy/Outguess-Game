@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outguess Game 2", "Outguess Game 2\Outguess Game 2.csproj", "{81D0DDC7-9F14-44C0-8352-D4BC997B28E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D0DDC7-9F14-44C0-8352-D4BC997B28E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D0DDC7-9F14-44C0-8352-D4BC997B28E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D0DDC7-9F14-44C0-8352-D4BC997B28E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D0DDC7-9F14-44C0-8352-D4BC997B28E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63C39FF-9F3A-4F15-9ABC-29CDFCE60D9A}
+	EndGlobalSection
+EndGlobal

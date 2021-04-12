@@ -1,0 +1,13 @@
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\bin\Debug\netcoreapp3.1\Outguess Game 2.exe
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\bin\Debug\netcoreapp3.1\Outguess Game 2.deps.json
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\bin\Debug\netcoreapp3.1\Outguess Game 2.runtimeconfig.json
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\bin\Debug\netcoreapp3.1\Outguess Game 2.runtimeconfig.dev.json
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\bin\Debug\netcoreapp3.1\Outguess Game 2.dll
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\bin\Debug\netcoreapp3.1\Outguess Game 2.pdb
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\obj\Debug\netcoreapp3.1\Outguess Game 2.csprojAssemblyReference.cache
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\obj\Debug\netcoreapp3.1\Outguess Game 2.AssemblyInfoInputs.cache
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\obj\Debug\netcoreapp3.1\Outguess Game 2.AssemblyInfo.cs
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\obj\Debug\netcoreapp3.1\Outguess Game 2.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\obj\Debug\netcoreapp3.1\Outguess Game 2.dll
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\obj\Debug\netcoreapp3.1\Outguess Game 2.pdb
+C:\Users\Jennifer\source\repos\Outguess Game 2\Outguess Game 2\obj\Debug\netcoreapp3.1\Outguess Game 2.genruntimeconfig.cache
